@@ -1,0 +1,23 @@
+{
+  "name": "KickstarterYo",
+  "version": "1.0.0",
+  "description": "Yo people as your Kickstarter project gets more backers!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IsaiahJTurner/KickstarterYo.git"
+  },
+  "keywords": [
+    "kickstarter",
+    "yo"
+  ],
+  "author": "Isaiah J Turner",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/IsaiahJTurner/KickstarterYo/issues"
+  },
+  "homepage": "https://github.com/IsaiahJTurner/KickstarterYo"
+}
